@@ -1,0 +1,12 @@
+{
+  "best_model": "XGBoost",
+  "roc_auc": 0.7585319535931776,
+  "f1": 0.5141202027516293,
+  "optimal_threshold": 0.35477370023727417,
+  "trained_at": "2026-04-05T00:33:37.183036",
+  "dataset_shape": [
+    30000,
+    24
+  ],
+  "feature_count": 30
+}
